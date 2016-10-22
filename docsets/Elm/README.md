@@ -8,3 +8,10 @@ The Docset was generated with the [Elm Docset Generator](https://github.com/pdam
 The documentation is valid for Elm `^0.17.1`.
 
 For more information about Elm, visit http://elm-lang.org/
+
+
+== Importing into Zeal ==
+
+`Tools` -> `Docset` -> `Add feed` -> Paste `https://raw.githubusercontent.com/naddeoa/Dash-User-Contributions/master/docsets/Elm/Elm.xml`
+
+[![ScreenShot](https://thumbs.gfycat.com/ObeseMistyDunnart-poster.jpg)](https://gfycat.com/ObeseMistyDunnart)
